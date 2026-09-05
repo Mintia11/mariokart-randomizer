@@ -13,7 +13,7 @@ function randomTrack() {
     const data = window.tracks;
     if (!data) {
         alert("Track data not loaded yet. Just wait a moment and try again.");
-        return;
+        return 1;
     }
 
     const toursEnabled = document.getElementById("tour").checked;
@@ -27,7 +27,7 @@ function randomTrack() {
 
     if (selectedCategories.length === 0) {
         alert("Please select at least one category (Base, Deluxe, or CTGP) that has track data available.");
-        return;
+        return 1;
     }
 
     // Helper: tracks eligible under the current tour setting
@@ -48,7 +48,7 @@ function randomTrack() {
 
     if (pool.length === 0) {
         alert("No tracks match your current settings. Try enabling Tours or a different category.");
-        return;
+        return 1;
     }
 
     const { cup: randomCup, tracks: cupTracks } = pool[Math.floor(Math.random() * pool.length)];
@@ -57,7 +57,7 @@ function randomTrack() {
     const trackPanel = document.querySelector(".track-panel");
     if (!trackPanel) {
         console.error('Missing ".track-panel" element in the DOM.');
-        return;
+        return 1;
     }
 
     trackPanel.innerHTML = `
@@ -75,11 +75,16 @@ function randomTrack() {
         ],
         { duration: 500, easing: "ease-out" }
     );
+
+    return 0;
 }
 
 document.getElementById("randomize").addEventListener("click", function () {
     const trackPanel = document.querySelector(".track-panel");
     trackPanel.innerHTML = ""; // Clear previous tracks
-    randomTrack();
-    trackPanel.style.display = "block"; // Show the track panel
+    if (randomTrack() == 0) {
+        trackPanel.style.display = "block"; // Show the track panel
+    } else {
+        trackPanel.style.display = "none"; // Hide the track panel if no track was selected
+    }
 });

@@ -1,0 +1,902 @@
+{
+    "base": [
+        {
+            "name": "Mushroom Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/1/15/MK8_MushroomCup.png/60px-MK8_MushroomCup.png",
+            "tracks": [
+                {
+                    "name": "Mario Kart Stadium",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/50/MK8D_Mario_Kart_Stadium_Course_Icon_Full.png/150px-MK8D_Mario_Kart_Stadium_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Water Park",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/7d/MK8D_Water_Park_Course_Icon_Full.png/150px-MK8D_Water_Park_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Sweet Sweet Canyon",
+                    "img": "https://mario.wiki.gallery/images/thumb/a/af/MK8D_Sweet_Sweet_Canyon_Course_Icon_Full.png/150px-MK8D_Sweet_Sweet_Canyon_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Thwomp Ruins",
+                    "img": "https://mario.wiki.gallery/images/thumb/8/8b/MK8D_Thwomp_Ruins_Course_Icon_Full.png/150px-MK8D_Thwomp_Ruins_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Flower Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/a/a8/MK8_FlowerCup.png/60px-MK8_FlowerCup.png",
+            "tracks": [
+                {
+                    "name": "Mario Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/8/8e/MK8D_Mario_Circuit_Course_Icon_Full.png/150px-MK8D_Mario_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Toad Harbor Toad Harbour",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/55/MK8D_Toad_Harbor_Course_Icon_Full.png/150px-MK8D_Toad_Harbor_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Twisted Mansion",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/03/MK8D_Twisted_Mansion_Course_Icon_Full.png/150px-MK8D_Twisted_Mansion_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Shy Guy Falls",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/0a/MK8D_Shy_Guy_Falls_Course_Icon_Full.png/150px-MK8D_Shy_Guy_Falls_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Star Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/7/78/MK8_Star_Cup_Emblem.png/60px-MK8_Star_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Sunshine Airport",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/52/MK8D_Sunshine_Airport_Course_Icon_Full.png/150px-MK8D_Sunshine_Airport_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Dolphin Shoals",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/0e/MK8D_Dolphin_Shoals_Course_Icon_Full.png/150px-MK8D_Dolphin_Shoals_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Electrodrome",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/54/MK8D_Electrodrome_Course_Icon_Full.png/150px-MK8D_Electrodrome_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Mount Wario",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/49/MK8D_Mount_Wario_Course_Icon_Full.png/150px-MK8D_Mount_Wario_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Special Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/6/65/MK8_Special_Cup_Emblem.png/60px-MK8_Special_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Cloudtop Cruise",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/3c/MK8D_Cloudtop_Cruise_Course_Icon_Full.png/150px-MK8D_Cloudtop_Cruise_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Bone-Dry Dunes",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/76/MK8D_Bone-Dry_Dunes_Course_Icon_Full.png/150px-MK8D_Bone-Dry_Dunes_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Bowser's Castle",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/76/MK8D_Bowser%27s_Castle_Course_Icon_Full.png/150px-MK8D_Bowser%27s_Castle_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Rainbow Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/2e/MK8D_Rainbow_Road_Course_Icon_Full.png/150px-MK8D_Rainbow_Road_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Shell Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/c/cc/MK8_Shell_Cup_Emblem.png/60px-MK8_Shell_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Wii Moo Moo Meadows",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/5b/MK8D_Wii_Moo_Moo_Meadows_Course_Icon_Full.png/150px-MK8D_Wii_Moo_Moo_Meadows_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GBA Mario Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/a/a6/MK8D_GBA_Mario_Circuit_Course_Icon_Full.png/150px-MK8D_GBA_Mario_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "DS Cheep Cheep Beach",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/b8/MK8D_DS_Cheep_Cheep_Beach_Course_Icon_Full.png/150px-MK8D_DS_Cheep_Cheep_Beach_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Toad's Turnpike",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/72/MK8D_N64_Toad%27s_Turnpike_Course_Icon_Full.png/150px-MK8D_N64_Toad%27s_Turnpike_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Banana Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/7/76/MK8_Banana_Cup_Emblem.png/60px-MK8_Banana_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "GCN Dry Dry Desert",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/31/MK8D_GCN_Dry_Dry_Desert_Course_Icon_Full.png/150px-MK8D_GCN_Dry_Dry_Desert_Course_Icon_Full.png"
+                },
+                {
+                    "name": "SNES Donut Plains 3",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/32/MK8D_SNES_Donut_Plains_3_Course_Icon_Full.png/150px-MK8D_SNES_Donut_Plains_3_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Royal Raceway",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/50/MK8D_N64_Royal_Raceway_Course_Icon_Full.png/150px-MK8D_N64_Royal_Raceway_Course_Icon_Full.png"
+                },
+                {
+                    "name": "3DS DK Jungle",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/bc/MK8D_3DS_DK_Jungle_Course_Icon_Full.png/150px-MK8D_3DS_DK_Jungle_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Leaf Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/2/28/MK8_Leaf_Cup_Emblem.png/60px-MK8_Leaf_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "DS Wario Stadium",
+                    "img": "https://mario.wiki.gallery/images/thumb/d/d2/MK8D_DS_Wario_Stadium_Course_Icon_Full.png/150px-MK8D_DS_Wario_Stadium_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GCN Sherbet Land",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/60/MK8D_GCN_Sherbet_Land_Course_Icon_Full.png/150px-MK8D_GCN_Sherbet_Land_Course_Icon_Full.png"
+                },
+                {
+                    "name": "3DS Music Park",
+                    "img": "https://mario.wiki.gallery/images/thumb/a/ad/MK8D_3DS_Music_Park_Course_Icon_Full.png/150px-MK8D_3DS_Music_Park_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Yoshi Valley",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/7e/MK8D_N64_Yoshi_Valley_Course_Icon_Full.png/150px-MK8D_N64_Yoshi_Valley_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Lightning Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/1/19/MK8_Lightning_Cup_Emblem.png/60px-MK8_Lightning_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "DS Tick-Tock Clock",
+                    "img": "https://mario.wiki.gallery/images/thumb/e/e1/MK8D_DS_Tick-Tock_Clock_Course_Icon_Full.png/150px-MK8D_DS_Tick-Tock_Clock_Course_Icon_Full.png"
+                },
+                {
+                    "name": "3DS Piranha Plant Slide",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/f5/MK8D_3DS_Piranha_Plant_Slide_Course_Icon_Full.png/150px-MK8D_3DS_Piranha_Plant_Slide_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Grumble Volcano",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/02/MK8D_Wii_Grumble_Volcano_Course_Icon_Full.png/150px-MK8D_Wii_Grumble_Volcano_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Rainbow Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/31/MK8D_N64_Rainbow_Road_Course_Icon_Full.png/150px-MK8D_N64_Rainbow_Road_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Egg Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/e/ea/MK8_Egg_Cup_Emblem.png/60px-MK8_Egg_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "GCN Yoshi Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/09/MK8D_GCN_Yoshi_Circuit_Course_Icon_Full.png/150px-MK8D_GCN_Yoshi_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Excitebike Arena",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/44/MK8D_Excitebike_Arena_Course_Icon_Full.png/150px-MK8D_Excitebike_Arena_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Dragon Driftway",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/bf/MK8D_Dragon_Driftway_Course_Icon_Full.png/150px-MK8D_Dragon_Driftway_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Mute City",
+                    "img": "https://mario.wiki.gallery/images/thumb/9/96/MK8D_Mute_City_Course_Icon_Full.png/150px-MK8D_Mute_City_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Triforce Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/6/6b/MK8_Triforce_Cup_Emblem.png/60px-MK8_Triforce_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Wii Wario's Gold Mine",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/b6/MK8D_Wii_Wario%27s_Gold_Mine_Course_Icon_Full.png/150px-MK8D_Wii_Wario%27s_Gold_Mine_Course_Icon_Full.png"
+                },
+                {
+                    "name": "SNES Rainbow Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/fa/MK8D_SNES_Rainbow_Road_Course_Icon_Full.png/150px-MK8D_SNES_Rainbow_Road_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Ice Ice Outpost",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/7a/MK8D_Ice_Ice_Outpost_Course_Icon_Full.png/150px-MK8D_Ice_Ice_Outpost_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Hyrule Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/f9/MK8D_Hyrule_Circuit_Course_Icon_Full.png/150px-MK8D_Hyrule_Circuit_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Crossing Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/9/92/MK8_Crossing_Cup_Emblem.png/60px-MK8_Crossing_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "GCN Baby Park",
+                    "img": "https://mario.wiki.gallery/images/thumb/9/95/MK8D_GCN_Baby_Park_Course_Icon_Full.png/150px-MK8D_GCN_Baby_Park_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GBA Cheese Land",
+                    "img": "https://mario.wiki.gallery/images/thumb/7/78/MK8D_GBA_Cheese_Land_Course_Icon_Full.png/150px-MK8D_GBA_Cheese_Land_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wild Woods",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/25/MK8D_Wild_Woods_Course_Icon_Full.png/150px-MK8D_Wild_Woods_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Animal Crossing",
+                    "img": "https://mario.wiki.gallery/images/thumb/c/cb/MK8D_Animal_Crossing_Course_Icon_Full.png/150px-MK8D_Animal_Crossing_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Bell Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/8/82/MK8_Bell_Cup_Emblem.png/60px-MK8_Bell_Cup_Emblem.png",
+            "tracks": [
+                {
+                    "name": "3DS Neo Bowser City",
+                    "img": "https://mario.wiki.gallery/images/thumb/9/91/MK8D_3DS_Neo_Bowser_City_Course_Icon_Full.png/150px-MK8D_3DS_Neo_Bowser_City_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GBA Ribbon Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/b1/MK8D_GBA_Ribbon_Road_Course_Icon_Full.png/150px-MK8D_GBA_Ribbon_Road_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Super Bell Subway",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/65/MK8D_Super_Bell_Subway_Course_Icon_Full.png/150px-MK8D_Super_Bell_Subway_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Big Blue",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/0c/MK8D_Big_Blue_Course_Icon_Full.png/150px-MK8D_Big_Blue_Course_Icon_Full.png"
+                }
+            ]
+        }
+    ],
+    "deluxe": [
+        {
+            "name": "Golden Dash Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/7/7e/MK8D_BCP_Golden_Dash_Emblem.png/60px-MK8D_BCP_Golden_Dash_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Paris Promenade",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/be/MK8D_Tour_Paris_Promenade_Course_Icon_Full.png/150px-MK8D_Tour_Paris_Promenade_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "3DS Toad Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/f6/MK8D_3DS_Toad_Circuit_Course_Icon_Full.png/150px-MK8D_3DS_Toad_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Choco Mountain",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/06/MK8D_N64_Choco_Mountain_Course_Icon_Full.png/150px-MK8D_N64_Choco_Mountain_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Coconut Mall",
+                    "img": "https://mario.wiki.gallery/images/thumb/1/1b/MK8D_Wii_Coconut_Mall_Course_Icon_Full.png/150px-MK8D_Wii_Coconut_Mall_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Lucky Cat Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/1/18/MK8D_BCP_Lucky_Cat_Emblem.png/60px-MK8D_BCP_Lucky_Cat_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Tokyo Blur",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/27/MK8D_Tour_Tokyo_Blur_Course_Icon_Full.png/150px-MK8D_Tour_Tokyo_Blur_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "DS Shroom Ridge",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/28/MK8D_DS_Shroom_Ridge_Course_Icon_Full.png/150px-MK8D_DS_Shroom_Ridge_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GBA Sky Garden",
+                    "img": "https://mario.wiki.gallery/images/thumb/1/19/MK8D_GBA_Sky_Garden_Course_Icon_Full.png/150px-MK8D_GBA_Sky_Garden_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Ninja Hideaway",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/36/MK8D_Ninja_Hideaway_Course_Icon_Full.png/150px-MK8D_Ninja_Hideaway_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Turnip Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/e/ea/MK8D_BCP_Turnip_Emblem.png/60px-MK8D_BCP_Turnip_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour New York Minute",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/b1/MK8D_Tour_New_York_Minute_Course_Icon_Full.png/150px-MK8D_Tour_New_York_Minute_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "SNES Mario Circuit 3",
+                    "img": "https://mario.wiki.gallery/images/thumb/d/de/MK8D_SNES_Mario_Circuit_3_Course_Icon_Full.png/150px-MK8D_SNES_Mario_Circuit_3_Course_Icon_Full.png"
+                },
+                {
+                    "name": "N64 Kalimari Desert",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/00/MK8D_N64_Kalimari_Desert_Course_Icon_Full.png/150px-MK8D_N64_Kalimari_Desert_Course_Icon_Full.png"
+                },
+                {
+                    "name": "DS Waluigi Pinball",
+                    "img": "https://mario.wiki.gallery/images/thumb/0/09/MK8D_DS_Waluigi_Pinball_Course_Icon_Full.png/150px-MK8D_DS_Waluigi_Pinball_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Propeller Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/a/ab/MK8D_BCP_Propeller_Emblem.png/60px-MK8D_BCP_Propeller_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Sydney Sprint",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/62/MK8D_Tour_Sydney_Sprint_Course_Icon_Full.png/150px-MK8D_Tour_Sydney_Sprint_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GBA Snow Land",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/67/MK8D_GBA_Snow_Land_Course_Icon_Full.png/150px-MK8D_GBA_Snow_Land_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Mushroom Gorge",
+                    "img": "https://mario.wiki.gallery/images/thumb/8/8d/MK8D_Wii_Mushroom_Gorge_Course_Icon_Full.png/150px-MK8D_Wii_Mushroom_Gorge_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Sky-High Sundae",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/69/MK8D_Sky-High_Sundae_Course_Icon_Full.png/150px-MK8D_Sky-High_Sundae_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Rock Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/6/66/MK8D_BCP_Rock_Emblem.png/60px-MK8D_BCP_Rock_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour London Loop",
+                    "img": "https://mario.wiki.gallery/images/thumb/9/94/MK8D_Tour_London_Loop_Course_Icon_Full.png/150px-MK8D_Tour_London_Loop_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GBA Boo Lake",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/f2/MK8D_GBA_Boo_Lake_Course_Icon_Full.png/150px-MK8D_GBA_Boo_Lake_Course_Icon_Full.png"
+                },
+                {
+                    "name": "3DS Rock Rock Mountain",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/46/MK8D_3DS_Rock_Rock_Mountain_Course_Icon_Full.png/150px-MK8D_3DS_Rock_Rock_Mountain_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Maple Treeway",
+                    "img": "https://mario.wiki.gallery/images/thumb/e/e5/MK8D_Wii_Maple_Treeway_Course_Icon_Full.png/150px-MK8D_Wii_Maple_Treeway_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Moon Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/c/c2/MK8D_BCP_Moon_Emblem.png/60px-MK8D_BCP_Moon_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Berlin Byways",
+                    "img": "https://mario.wiki.gallery/images/thumb/9/94/MK8D_Tour_Berlin_Byways_Course_Icon_Full.png/150px-MK8D_Tour_Berlin_Byways_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "DS Peach Gardens",
+                    "img": "https://mario.wiki.gallery/images/thumb/b/b9/MK8D_DS_Peach_Gardens_Course_Icon_Full.png/150px-MK8D_DS_Peach_Gardens_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Merry Mountain",
+                    "img": "https://mario.wiki.gallery/images/thumb/e/e3/MK8D_Merry_Mountain_Course_Icon_Full.png/150px-MK8D_Merry_Mountain_Course_Icon_Full.png"
+                },
+                {
+                    "name": "3DS Rainbow Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/48/MK8D_3DS_Rainbow_Road_Course_Icon_Full.png/150px-MK8D_3DS_Rainbow_Road_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Fruit Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/f/fa/MK8D_BCP_Fruit_Emblem.png/60px-MK8D_BCP_Fruit_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Amsterdam Drift",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/fa/MK8D_Tour_Amsterdam_Drift_Course_Icon_Full.png/150px-MK8D_Tour_Amsterdam_Drift_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GBA Riverside Park",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/4a/MK8D_GBA_Riverside_Park_Course_Icon_Full.png/150px-MK8D_GBA_Riverside_Park_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii DK Summit",
+                    "img": "https://mario.wiki.gallery/images/thumb/c/c4/MK8D_Wii_DK_Summit_Course_Icon_Full.png/150px-MK8D_Wii_DK_Summit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Yoshi's Island",
+                    "img": "https://mario.wiki.gallery/images/thumb/8/8a/MK8D_Yoshi%27s_Island_Course_Icon_Full.png/150px-MK8D_Yoshi%27s_Island_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Boomerang Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/a/ac/MK8D_BCP_Boomerang_Emblem.png/60px-MK8D_BCP_Boomerang_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Bangkok Rush",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/3d/MK8D_Tour_Bangkok_Rush_Course_Icon_Full.png/150px-MK8D_Tour_Bangkok_Rush_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "DS Mario Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/27/MK8D_DS_Mario_Circuit_Course_Icon_Full.png/150px-MK8D_DS_Mario_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "GCN Waluigi Stadium",
+                    "img": "https://mario.wiki.gallery/images/thumb/a/aa/MK8D_GCN_Waluigi_Stadium_Course_Icon_Full.png/150px-MK8D_GCN_Waluigi_Stadium_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Tour Singapore Speedway",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/5a/MK8D_Tour_Singapore_Speedway_Course_Icon_Full.png/150px-MK8D_Tour_Singapore_Speedway_Course_Icon_Full.png",
+                    "tour": true
+                }
+            ]
+        },
+        {
+            "name": "Feather Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/e/e2/MK8D_BCP_Feather_Emblem.png/60px-MK8D_BCP_Feather_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Athens Dash",
+                    "img": "https://mario.wiki.gallery/images/thumb/c/ce/MK8D_Tour_Athens_Dash_Course_Icon_Full.png/150px-MK8D_Tour_Athens_Dash_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GCN Daisy Cruiser",
+                    "img": "https://mario.wiki.gallery/images/thumb/d/d6/MK8D_GCN_Daisy_Cruiser_Course_Icon_Full.png/150px-MK8D_GCN_Daisy_Cruiser_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Moonview Highway",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/3d/MK8D_Wii_Moonview_Highway_Course_Icon_Full.png/150px-MK8D_Wii_Moonview_Highway_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Squeaky Clean Sprint",
+                    "img": "https://mario.wiki.gallery/images/thumb/1/14/MK8D_Squeaky_Clean_Sprint_Course_Icon_Full.png/150px-MK8D_Squeaky_Clean_Sprint_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Cherry Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/d/dc/MK8D_BCP_Cherry_Emblem.png/60px-MK8D_BCP_Cherry_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Los Angeles Laps",
+                    "img": "https://mario.wiki.gallery/images/thumb/8/8f/MK8D_Tour_Los_Angeles_Laps_Course_Icon_Full.png/150px-MK8D_Tour_Los_Angeles_Laps_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GBA Sunset Wilds",
+                    "img": "https://mario.wiki.gallery/images/thumb/c/cf/MK8D_GBA_Sunset_Wilds_Course_Icon_Full.png/150px-MK8D_GBA_Sunset_Wilds_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Koopa Cape",
+                    "img": "https://mario.wiki.gallery/images/thumb/f/f2/MK8D_Wii_Koopa_Cape_Course_Icon_Full.png/150px-MK8D_Wii_Koopa_Cape_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Tour Vancouver Velocity",
+                    "img": "https://mario.wiki.gallery/images/thumb/4/4e/MK8D_Tour_Vancouver_Velocity_Course_Icon_Full.png/150px-MK8D_Tour_Vancouver_Velocity_Course_Icon_Full.png",
+                    "tour": true
+                }
+            ]
+        },
+        {
+            "name": "Acorn Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/d/db/MK8D_BCP_Acorn_Emblem.png/60px-MK8D_BCP_Acorn_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Rome Avanti",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/32/MK8D_Tour_Rome_Avanti_Course_Icon_Full.png/150px-MK8D_Tour_Rome_Avanti_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "GCN DK Mountain",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/52/MK8D_GCN_DK_Mountain_Course_Icon_Full.png/150px-MK8D_GCN_DK_Mountain_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Daisy Circuit",
+                    "img": "https://mario.wiki.gallery/images/thumb/6/62/MK8D_Wii_Daisy_Circuit_Course_Icon_Full.png/150px-MK8D_Wii_Daisy_Circuit_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Piranha Plant Cove",
+                    "img": "https://mario.wiki.gallery/images/thumb/a/ab/MK8D_Piranha_Plant_Cove_Course_Icon_Full.png/150px-MK8D_Piranha_Plant_Cove_Course_Icon_Full.png"
+                }
+            ]
+        },
+        {
+            "name": "Spiny Cup",
+            "img": "https://mario.wiki.gallery/images/thumb/1/10/MK8D_BCP_Spiny_Emblem.png/60px-MK8D_BCP_Spiny_Emblem.png",
+            "tracks": [
+                {
+                    "name": "Tour Madrid Drive",
+                    "img": "https://mario.wiki.gallery/images/thumb/5/5c/MK8D_Tour_Madrid_Drive_Course_Icon_Full.png/150px-MK8D_Tour_Madrid_Drive_Course_Icon_Full.png",
+                    "tour": true
+                },
+                {
+                    "name": "3DS Rosalina's Ice World",
+                    "img": "https://mario.wiki.gallery/images/thumb/e/ef/MK8D_3DS_Rosalina%27s_Ice_World_Course_Icon_Full.png/150px-MK8D_3DS_Rosalina%27s_Ice_World_Course_Icon_Full.png"
+                },
+                {
+                    "name": "SNES Bowser Castle 3",
+                    "img": "https://mario.wiki.gallery/images/thumb/3/36/MK8D_SNES_Bowser_Castle_3_Course_Icon_Full.png/150px-MK8D_SNES_Bowser_Castle_3_Course_Icon_Full.png"
+                },
+                {
+                    "name": "Wii Rainbow Road",
+                    "img": "https://mario.wiki.gallery/images/thumb/2/2a/MK8D_Wii_Rainbow_Road_Course_Icon_Full.png/150px-MK8D_Wii_Rainbow_Road_Course_Icon_Full.png"
+                }
+            ]
+        }
+    ],
+    "ctgp": [
+        {
+            "name": "Boo Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/f/f5/CTGPDX_Boo_Cup.png/64px-CTGPDX_Boo_Cup.png",
+            "tracks": [
+                {
+                    "name": "GPDX Omatsuri Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "SNES Vanilla Lake 1",
+                    "img": ""
+                },
+                {
+                    "name": "GBA Broken Pier",
+                    "img": ""
+                },
+                {
+                    "name": "Mystic Tangle",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Blooper Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/e/e9/CTGPDX_Blooper_Cup.png/64px-CTGPDX_Blooper_Cup.png",
+            "tracks": [
+                {
+                    "name": "GP Snow Panic",
+                    "img": ""
+                },
+                {
+                    "name": "SNES Mario Circuit 2",
+                    "img": ""
+                },
+                {
+                    "name": "Volcanic Skyway",
+                    "img": ""
+                },
+                {
+                    "name": "Whale Lagoon",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Penguin Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/5/5b/CTGPDX_Penguin_Cup.png/64px-CTGPDX_Penguin_Cup.png",
+            "tracks": [
+                {
+                    "name": "GPDX DK Jungle",
+                    "img": ""
+                },
+                {
+                    "name": "N64 Frappe Snowland",
+                    "img": ""
+                },
+                {
+                    "name": "3DS Mario Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "DKR Jungle Falls",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Piranha Plant Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/1/1c/CTGPDX_Piranha_Plant_Cup.png/64px-CTGPDX_Piranha_Plant_Cup.png",
+            "tracks": [
+                {
+                    "name": "SNES Koopa Beach 1",
+                    "img": ""
+                },
+                {
+                    "name": "GCN Mario Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "DS Desert Hills",
+                    "img": ""
+                },
+                {
+                    "name": "Pill Hill Valley",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Cloud Flower Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/a/a9/CTGPDX_Cloud_Flower_Cup.png/64px-CTGPDX_Cloud_Flower_Cup.png",
+            "tracks": [
+                {
+                    "name": "GBA Lakeside Park",
+                    "img": ""
+                },
+                {
+                    "name": "Wario Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "N64 Banshee Boardwalk",
+                    "img": ""
+                },
+                {
+                    "name": "Creep Sea Cape",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Super Crown Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/6/6b/CTGPDX_Super_Crown_Cup.png/64px-CTGPDX_Super_Crown_Cup.png",
+            "tracks": [
+                {
+                    "name": "N64 Koopa Troopa Beach",
+                    "img": ""
+                },
+                {
+                    "name": "3DS Wario Shipyard",
+                    "img": ""
+                },
+                {
+                    "name": "Somnom Labyrinth",
+                    "img": ""
+                },
+                {
+                    "name": "DKR Walrus Cove",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Grand Star Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/4/43/CTGPDX_Grand_Star_Cup.png/64px-CTGPDX_Grand_Star_Cup.png",
+            "tracks": [
+                {
+                    "name": "SNES Koopa Beach 2",
+                    "img": ""
+                },
+                {
+                    "name": "Green Hill Zone",
+                    "img": ""
+                },
+                {
+                    "name": "Cavi Cave Cliffside",
+                    "img": ""
+                },
+                {
+                    "name": "Nabbit's Secret Island",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Multi Moon Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/8/8b/CTGPDX_Multi_Moon_Cup.png/64px-CTGPDX_Multi_Moon_Cup.png",
+            "tracks": [
+                {
+                    "name": "Wii Luigi Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "RMX Choco Island 1",
+                    "img": ""
+                },
+                {
+                    "name": "Boshi's Skatepark",
+                    "img": ""
+                },
+                {
+                    "name": "Windmill Isle",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Invincibility Leaf Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/f/f7/CTGPDX_Invincibility_Leaf_Cup.png/64px-CTGPDX_Invincibility_Leaf_Cup.png",
+            "tracks": [
+                {
+                    "name": "Sky High Cathedral",
+                    "img": ""
+                },
+                {
+                    "name": "Shipwreck Shore",
+                    "img": ""
+                },
+                {
+                    "name": "GPDX Bowser's Castle",
+                    "img": ""
+                },
+                {
+                    "name": "N64 DK's Jungle Parkway",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Squid Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/3/30/CTGPDX_Squid_Cup.png/64px-CTGPDX_Squid_Cup.png",
+            "tracks": [
+                {
+                    "name": "Humpback Pump Track",
+                    "img": ""
+                },
+                {
+                    "name": "Area 64",
+                    "img": ""
+                },
+                {
+                    "name": "Cheep Cheep Cove",
+                    "img": ""
+                },
+                {
+                    "name": "Teehee Trails",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Heart Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/0/06/CTGPDX_Heart_Cup.png/64px-CTGPDX_Heart_Cup.png",
+            "tracks": [
+                {
+                    "name": "DKR Fossil Canyon",
+                    "img": ""
+                },
+                {
+                    "name": "DS DK Pass",
+                    "img": ""
+                },
+                {
+                    "name": "GBA Bowser Castle 4",
+                    "img": ""
+                },
+                {
+                    "name": "RMX Rainbow Road 1",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Shine Sprite Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/1/13/CTGPDX_Shine_Sprite_Cup.png/64px-CTGPDX_Shine_Sprite_Cup.png",
+            "tracks": [
+                {
+                    "name": "Dry Dry Falls",
+                    "img": ""
+                },
+                {
+                    "name": "SNES Donut Plains 2",
+                    "img": ""
+                },
+                {
+                    "name": "GP Pac Mountain",
+                    "img": ""
+                },
+                {
+                    "name": "Vacay Bay",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Life Mushroom Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/2/20/CTGPDX_Life_Mushroom_Cup.png/64px-CTGPDX_Life_Mushroom_Cup.png",
+            "tracks": [
+                {
+                    "name": "Moo Moo Mountain",
+                    "img": ""
+                },
+                {
+                    "name": "GPDX Tropical Coast",
+                    "img": ""
+                },
+                {
+                    "name": "3DS Shy Guy Bazaar",
+                    "img": ""
+                },
+                {
+                    "name": "N64 Bowser's Castle",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Ice Flower Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/5/57/CTGPDX_Ice_Flower_Cup.png/64px-CTGPDX_Ice_Flower_Cup.png",
+            "tracks": [
+                {
+                    "name": "GPDX Kingdom Way",
+                    "img": ""
+                },
+                {
+                    "name": "Alpine Skyway",
+                    "img": ""
+                },
+                {
+                    "name": "Wii Bowser's Castle",
+                    "img": ""
+                },
+                {
+                    "name": "GBA Rainbow Road",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Prankster Comet Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/4/40/CTGPDX_Prankster_Comet_Cup.png/64px-CTGPDX_Prankster_Comet_Cup.png",
+            "tracks": [
+                {
+                    "name": "SNES Choco Island 1",
+                    "img": ""
+                },
+                {
+                    "name": "DKR Haunted Woods",
+                    "img": ""
+                },
+                {
+                    "name": "3DS Bowser's Castle",
+                    "img": ""
+                },
+                {
+                    "name": "DS Rainbow Road",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Coin Cup",
+            "img": "https://mk8.tockdom.com/w/images/thumb/a/ac/CTGPDX_Coin_Cup.png/64px-CTGPDX_Coin_Cup.png",
+            "tracks": [
+                {
+                    "name": "GCN Mushroom Bridge",
+                    "img": ""
+                },
+                {
+                    "name": "GBA Luigi Circuit",
+                    "img": ""
+                },
+                {
+                    "name": "DS Deflino Square",
+                    "img": ""
+                },
+                {
+                    "name": "Tour Piranha Plant Pipeline",
+                    "img": ""
+                }
+            ]
+        }
+    ]
+}

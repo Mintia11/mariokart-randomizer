@@ -162,6 +162,8 @@ label {
 @media (max-width: 480px) {
     body {
         padding-bottom: 4.5rem;
+        background-image: url("bg-mobile.jpg");
+        background-size: cover;
     }
 
     .settings-panel,

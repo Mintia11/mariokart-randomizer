@@ -26,19 +26,33 @@
             <h1>Settings</h1>
             <div>
                 <h2>Tracks from: </h2>
-                <input type="checkbox" id="base" />
-                <label for="base">Base Game</label>
-                <input type="checkbox" id="deluxe" />
-                <label for="deluxe">Deluxe Edition</label>
-                <input type="checkbox" id="ctgp" />
-                <label for="ctgp">CTGP</label>
+                <div class="checkbox-group">
+                    <span class="checkbox-item">
+                        <input type="checkbox" id="base" />
+                        <label for="base">Base Game</label>
+                    </span>
+                    <span class="checkbox-item">
+                        <input type="checkbox" id="deluxe" />
+                        <label for="deluxe">Deluxe Edition</label>
+                    </span>
+                    <span class="checkbox-item">
+                        <input type="checkbox" id="ctgp" />
+                        <label for="ctgp">CTGP</label>
+                    </span>
+                </div>
             </div>
             <div>
                 <h2>Miscellaneous</h2>
-                <input type="checkbox" id="tour" />
-                <label for="tour">Enable Tours</label>
-                <input type="checkbox" id="wii" />
-                <label for="wii">Only Wii Tracks</label>
+                <div class="checkbox-group">
+                    <span class="checkbox-item">
+                        <input type="checkbox" id="tour" />
+                        <label for="tour">Enable Tours</label>
+                    </span>
+                    <span class="checkbox-item">
+                        <input type="checkbox" id="wii" />
+                        <label for="wii">Only Wii Tracks</label>
+                    </span>
+                </div>
             </div>
             <div class="button-row">
                 <button id="randomize">Randomize!</button>

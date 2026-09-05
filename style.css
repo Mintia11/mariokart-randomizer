@@ -4,10 +4,14 @@ body {
     background-position: center;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
+    padding: 1rem;
+    padding-bottom: 3.5rem;
+    box-sizing: border-box;
 }
 
 header,
@@ -29,6 +33,9 @@ label {
     padding: 2rem 3rem;
     border-radius: 12px;
     text-align: center;
+    width: 100%;
+    max-width: 600px;
+    box-sizing: border-box;
 }
 
 .track-panel {
@@ -38,17 +45,37 @@ label {
     text-align: center;
     margin-top: 1.5rem;
     display: none;
+    width: 100%;
+    max-width: 600px;
+    box-sizing: border-box;
 }
 
-#randomize {
+.track-panel img {
+    max-width: 100%;
+    height: auto;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+}
+
+#randomize,
+#reset {
     font-family: inherit;
     font-size: 1.3rem;
     font-weight: 800;
     color: #fff;
     letter-spacing: 0.5px;
 
-    padding: 0.75rem 2.5rem;
-    margin-top: 1.5rem;
+    padding: 0.75rem 2rem;
+    /* was 2.5rem — a bit tighter so both fit on one line */
+    margin-top: 0;
+    /* spacing now handled by .button-row's margin-top + gap */
 
     border: none;
     border-radius: 50px;
@@ -66,7 +93,12 @@ label {
     animation: shimmer 3s ease infinite;
 }
 
-#randomize:hover {
+#reset {
+    margin-left: 1rem;
+}
+
+#randomize:hover,
+#reset:hover {
     transform: translateY(-3px) scale(1.05);
     background-position: 100% 50%;
     box-shadow:
@@ -74,7 +106,8 @@ label {
         0 16px 24px rgba(0, 0, 0, 0.45);
 }
 
-#randomize:active {
+#randomize:active,
+#reset:active {
     transform: translateY(3px) scale(0.98);
     box-shadow:
         0 2px 0 #b8280f,
@@ -104,4 +137,45 @@ label {
     color: rgba(255, 255, 255, 0.7);
     background: rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
+}
+
+@media (max-width: 480px) {
+    body {
+        padding-bottom: 4.5rem;
+    }
+
+    .settings-panel,
+    .track-panel {
+        padding: 1.25rem 1.25rem;
+        border-radius: 10px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1.15rem;
+    }
+
+    label {
+        font-size: 0.95rem;
+    }
+
+    #randomize,
+    #reset {
+        font-size: 1.1rem;
+        padding: 0.65rem 1.5rem;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #reset {
+        margin-top: 0.75rem;
+    }
+
+    .disclaimer {
+        font-size: 0.68rem;
+        line-height: 1.3;
+    }
 }
